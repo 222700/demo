@@ -3,5 +3,6 @@ public class test {
         System.out.println("版本hot-fix1");
         System.out.println("master");
         System.out.println("hot-fix");
+        System.out.println("pull");
     }
 }
